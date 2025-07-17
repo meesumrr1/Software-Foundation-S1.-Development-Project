@@ -1,0 +1,18 @@
+Processed Results:
+Sum: 66.0
+Difference (Max - Min): 21.0
+Average: 13.2
+
+Squares:
+144.0
+16.0
+81.0
+256.0
+625.0
+
+Square Roots:
+3.4641016151377544
+2.0
+3.0
+4.0
+5.0
